@@ -1,2 +1,3 @@
 # Secret Santa TGBot
-My first TG-bot used for making secret santa shuffling
+
+My first Telegram bot used for making secret santa game
